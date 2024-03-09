@@ -1,6 +1,6 @@
 # 👨‍💻 Augusto Oliveira 🚀
 
-Welcome to my profile! I'm Augusto, a budding Front-End Engineer and Blockchain enthusiast 🌐, diving deep into the realms of web development and decentralized technologies. Currently, I'm enhancing my skills through the Front-End Engineering course at EBAC 📚 and a Blockchain Engineering course taught by Fernando Amaral and the SuperDataScience Team on Udemy.
+Welcome to my profile! I'm Augusto, a budding Software Engineering and Blockchain enthusiast 🌐, diving deep into the realms of web development and decentralized technologies. Currently, I'm enhancing my skills through the Front-End Engineering course at EBAC 📚 and a Blockchain Engineering course taught by Fernando Amaral and the SuperDataScience Team on Udemy.
 
 ## 🙋‍♂️ About Me
 
