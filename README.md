@@ -4,7 +4,7 @@ Welcome to my profile! I'm Augusto, a budding Software Engineering and Blockchai
 
 ## 🙋‍♂️ About Me
 
-With a background in Innovation and IT, and experience in project management and Go-to-Market strategies, I'm passionate about leveraging technology to create impactful solutions 💡. My journey started at the Federal University of ABC, where I'm pursuing a Bachelor's degree in Science and Technology, and it has taken me through roles that challenged and honed my skills in software development, digital infrastructure support, and leadership.
+With a background in Innovation and IT coupled with project management and Go-to-Market strategy experience, I am passionate about using technology to craft impactful solutions. Starting at the Federal University of ABC, where I'm pursuing a Bachelor's degree in Science and Technology, my journey has allowed me to enhance my skills in software development, digital infrastructure support, and leadership.
 
 ## 💡 Areas of Interest
 
@@ -32,10 +32,10 @@ With a background in Innovation and IT, and experience in project management and
 
 ## 🛠 Skills
 
-- Advanced English 🇬🇧
+- Advanced English
 - Sales Accreditation (Business) - AWS 📈
 - IT Management and Infrastructure - FIAP 💼
 - Circular Economy and Data Protection Laws – Senai São Paulo 🔒
 
-I'm always looking to connect with like-minded professionals and explore opportunities in Front-End and Blockchain projects. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/augusto-silveira/)!
+I'm always looking to connect with like-minded professionals and explore opportunities in Front-End and Blockchain projects. Feel free to reach out through LinkedIn (https://www.linkedin.com/in/augusto-silveira/)!
 
