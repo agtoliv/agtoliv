@@ -1,6 +1,6 @@
 # 👨‍💻 Augusto Oliveira 🚀
 
-Welcome to my profile! I'm Augusto, a budding Software Engineering and Blockchain enthusiast 🌐, diving deep into the realms of web development and decentralized technologies. Currently, I'm enhancing my skills through the Front-End Engineering course at EBAC 📚 and a Blockchain Engineering course taught by Fernando Amaral and the SuperDataScience Team on Udemy.
+Welcome to my profile! I'm Augusto, a budding Software Engineering and Cloud Computing enthusiast 🌐, diving deep into the realms of web development and decentralized technologies. Currently, I'm enhancing my skills through the Front-End Engineering course at EBAC 📚 and a Cloud Computing, training for SAA-C03 AWS certification.
 
 ## 🙋‍♂️ About Me
 
@@ -15,7 +15,7 @@ With a background in Innovation and IT coupled with project management and Go-to
 ## 📖 Current Learning Path
 
 - **EBAC**: Engaging in comprehensive Front-End Engineering coursework to master web development fundamentals and advanced techniques 🎓.
-- **Udemy**: Advancing my understanding of Blockchain technology under the guidance of industry experts 🧠.
+- **Udemy**: Ultimate AWS Certified Solutions Architect Associate SAA-C03 🧠.
 
 ## 🌟 Experience Highlights
 
@@ -26,16 +26,15 @@ With a background in Innovation and IT coupled with project management and Go-to
 ## 🎓 Education
 
 - **Bachelor's in Science and Technology**, Federal University of ABC 🏛️
-- **Web Development**, CoderHouse 💻
-- **Front-End Engineering**, EBAC 📘
-- **Blockchain Engineering**, Udemy 📚
+- **Front-End Engineering**, EBAC 💻
 
 ## 🛠 Skills
 
 - Advanced English
-- Sales Accreditation (Business) - AWS 📈
-- IT Management and Infrastructure - FIAP 💼
-- Circular Economy and Data Protection Laws – Senai São Paulo 🔒
+- Sales Accreditation (Business) - AWS 
+- AWS Partner: Accreditation (Technical)
+- AWS Partner: Cloud Economics
+- IT Management and Infrastructure - FIAP 
+- Circular Economy and Data Protection Laws – Senai São Paulo 
 
-I'm always looking to connect with like-minded professionals and explore opportunities in Front-End and Blockchain projects. Feel free to reach out through LinkedIn (https://www.linkedin.com/in/augusto-silveira/)!
-
+I'm always looking to connect with like-minded professionals and explore opportunities in Front-End and Cloud Computing projects. Feel free to reach out through LinkedIn (https://www.linkedin.com/in/augusto-silveira/)!
