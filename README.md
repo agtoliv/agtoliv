@@ -9,6 +9,7 @@ With a background in Innovation and IT coupled with project management and Go-to
 ## 💡 Areas of Interest
 
 - **Front-End Engineering**: Crafting engaging, responsive user interfaces with HTML, CSS, and modern JavaScript frameworks 🖌️.
+-**Cloud Computing**: Harnessing the power of remote servers over the internet to store, manage, and process data, offering scalability and flexibility for modern applications ☁️ 
 - **Web3 & Blockchain**: Exploring the potential of decentralized applications, smart contracts, and the underlying technologies shaping the future of the internet 🔗.
 - **Project Management**: Leveraging agile methodologies to deliver projects efficiently and effectively 🛠️.
 
