@@ -1,6 +1,6 @@
 # 👨‍💻 Augusto Oliveira 🚀
 
-Welcome to my profile! I'm Augusto, a budding Software Engineering and Cloud Computing enthusiast 🌐, diving deep into the realms of web development and decentralized technologies. Currently, I'm enhancing my skills through the Front-End Engineering course at EBAC 📚 and a Cloud Computing, training for SAA-C03 AWS certification.
+Welcome to my profile! I'm Augusto, a budding Software Engineering and Cloud Computing enthusiast 🌐, diving deep into the realms of web development and decentralized technologies. Currently, I'm enhancing my skills through the Python Fullstack Development course at EBAC 📚 and a Cloud Computing, training for SAA-C03 AWS certification.
 
 ## 🙋‍♂️ About Me
 
@@ -8,14 +8,14 @@ With a background in Innovation and IT coupled with project management and Go-to
 
 ## 💡 Areas of Interest
 
-- **Front-End Engineering**: Crafting engaging, responsive user interfaces with HTML, CSS, and modern JavaScript frameworks 🖌️.
+- **Python Fullstack Development**: Crafting engaging, responsive user interfaces with HTML, CSS, and modern JavaScript frameworks 🖌️.
 -**Cloud Computing**: Harnessing the power of remote servers over the internet to store, manage, and process data, offering scalability and flexibility for modern applications ☁️ 
 - **Web3 & Blockchain**: Exploring the potential of decentralized applications, smart contracts, and the underlying technologies shaping the future of the internet 🔗.
 - **Project Management**: Leveraging agile methodologies to deliver projects efficiently and effectively 🛠️.
 
 ## 📖 Current Learning Path
 
-- **EBAC**: Engaging in comprehensive Front-End Engineering coursework to master web development fundamentals and advanced techniques 🎓.
+- **EBAC**: Engaging in comprehensive Python Fullstack Development coursework to master web development fundamentals and advanced techniques 🎓.
 - **Udemy**: Ultimate AWS Certified Solutions Architect Associate SAA-C03 🧠.
 
 ## 🌟 Experience Highlights
@@ -27,7 +27,7 @@ With a background in Innovation and IT coupled with project management and Go-to
 ## 🎓 Education
 
 - **Bachelor's in Science and Technology**, Federal University of ABC 🏛️
-- **Front-End Engineering**, EBAC 💻
+- **Python Fullstack Development**, EBAC 💻
 
 ## 🛠 Skills
 
@@ -38,4 +38,4 @@ With a background in Innovation and IT coupled with project management and Go-to
 - IT Management and Infrastructure - FIAP 
 - Circular Economy and Data Protection Laws – Senai São Paulo 
 
-I'm always looking to connect with like-minded professionals and explore opportunities in Front-End and Cloud Computing projects. Feel free to reach out through LinkedIn (https://www.linkedin.com/in/augusto-silveira/)!
+I'm always looking to connect with like-minded professionals and explore opportunities in Fullstack and Cloud Computing projects. Feel free to reach out through LinkedIn (https://www.linkedin.com/in/augusto-silveira/)!
